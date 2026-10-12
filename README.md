@@ -1,9 +1,8 @@
 # Diabetes Risk Prediction (Mini AI Solution)
 
+
 A small end-to-end machine learning project. It collects real data, cleans it, trains and compares three models, picks the best one, and serves predictions through an **API** and a simple **web page**.
 
-
-**Built for:** Pokak Technologies – AI / Data Science Developer machine test
 
 ---
 
