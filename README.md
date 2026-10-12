@@ -1,4 +1,4 @@
-#Diabetes Risk Prediction (Mini AI Solution)**
+#Diabetes Risk Prediction (Mini AI Solution)
 
 
 A small end-to-end machine learning project. It collects real data, cleans it, trains and compares three models, picks the best one, and serves predictions through an **API** and a simple **web page**.
@@ -222,6 +222,6 @@ The API checks every input and returns a clear message instead of crashing (HTTP
 
 ## 11. Tools Used
 
-Python, pandas, NumPy, scikit-learn, joblib, Flask, Streamlit, requests.#   d i a b e t e s - r i s k - p r e d i c t i o n - m l 
+Python, pandas, NumPy, scikit-learn, joblib, Flask, Streamlit, requests.#   diabetes - risk - prediction - ml 
  
  
